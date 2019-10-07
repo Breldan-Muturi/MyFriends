@@ -24,7 +24,7 @@ public class UserListActivity extends AppCompatActivity {
 
         final ArrayList<String> usernames = new ArrayList<String>();
 
-        usernames.add("test");
+//        usernames.add("test");
 
         final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, usernames);
 
