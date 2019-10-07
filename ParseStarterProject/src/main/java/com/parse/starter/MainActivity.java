@@ -48,6 +48,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     EditText passwordEditText;
 
+    public void showUserList(){
+
+        Intent intent = new Intent (getApplicationContext(), UserListActivity.class);
+
+        startActivity(intent);
+
+    }
+
     @Override
     public boolean onKey(View view, int i, KeyEvent keyEvent) {
 
