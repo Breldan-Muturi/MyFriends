@@ -126,6 +126,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                       Log.i("Sign Up", "Successfull Sign Up");
 
+                      showUserList();
+
                   } else {
 
                       Toast.makeText(MainActivity.this, e.getMessage(), Toast.LENGTH_SHORT).show();
@@ -140,6 +142,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                   if(user != null){
 
                       Log.i("Login", "Okay");
+
+                      showUserList();
 
                   } else {
 
@@ -157,15 +161,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
-    loginTextView = (TextView) findViewById(R.id.loginTextView);
+      loginTextView = (TextView) findViewById(R.id.loginTextView);
 
-    loginTextView.setOnClickListener(this);
+      loginTextView.setOnClickListener(this);
 
       usernameEditText = findViewById(R.id.usernameEditText);
 
       passwordEditText = findViewById(R.id.passwordEditText);
-
-      passwordEditText.setOnKeyListener(this);
 
       ImageView logoImageView = findViewById(R.id.logoImageView);
 
@@ -175,6 +177,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
       backgroundLayout.setOnClickListener(this);
 
+      passwordEditText.setOnKeyListener(this);
+
+      if(ParseUser.getCurrentUser() != null){
+
+          showUserList();
+
+      }
       ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
 

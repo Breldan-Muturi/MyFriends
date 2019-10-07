@@ -16,12 +16,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -36,20 +36,20 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_volume_off_grey600_36.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_stop_grey600_48.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_volume_off_grey600_36.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_replay_white_24.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_replay_white_24.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_stop_grey600_48.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_stop_grey600_48.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_volume_off_white_36.png.flat",
@@ -72,12 +72,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxhdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_disabled.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_mini_controller_play.xml.flat",
@@ -148,12 +148,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_media_route_disabled_mono_dark.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-xxhdpi/ic_media_route_disabled_mono_dark.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_pause_dark.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-mdpi/ic_pause_dark.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_media_route_disabled_mono_dark.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-xxhdpi/ic_media_route_disabled_mono_dark.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
@@ -180,12 +180,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-hdpi/ic_cast_light.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxhdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxhdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_cast_on_0_light.png.flat",
@@ -240,12 +240,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
@@ -256,20 +256,20 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_forward_30_white_24.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxhdpi-v4/quantum_ic_forward_30_white_24.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_replay_10_white_24.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_replay_10_white_24.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_replay_10_white_24.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_replay_10_white_24.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_replay_white_24.png.flat",
@@ -284,12 +284,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_focused.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_icon_light_normal.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -304,12 +304,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_full_open_on_phone.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_cast_ic_notification_0.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/cbdff4e0aa43720807fdce1f231da790/play-services-cast-9.4.0/res/drawable-mdpi-v4/cast_ic_notification_0.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -356,16 +356,16 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/layout/cast_help_text.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_cast_disabled_light.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-hdpi/ic_cast_disabled_light.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_places_ic_search.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/b3bcae8028c17bf4040a848a1ec419d3/play-services-places-9.4.0/res/drawable-mdpi-v4/places_ic_search.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_cast_disabled_light.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-hdpi/ic_cast_disabled_light.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
@@ -400,12 +400,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cast_on_2_light.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-xhdpi/ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_disabled.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -488,16 +488,16 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-tvdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
@@ -536,12 +536,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_cast_white_36.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_cast_white_36.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_cast_white_36.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_cast_white_36.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_pause_circle_filled_grey600_36.png.flat",
@@ -616,12 +616,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxhdpi-v4/quantum_ic_stop_grey600_36.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_closed_caption_grey600_36.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-hdpi-v4/quantum_ic_closed_caption_grey600_36.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_places_ic_clear.png.flat",
@@ -652,12 +652,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_disconnect.xml.flat",
@@ -720,12 +720,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_volume_mute_white_36.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_mini_controller_gradient_light.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable/cast_mini_controller_gradient_light.xml"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_mr_ic_media_route_connecting_mono_light.xml.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_mini_controller_gradient_light.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable/cast_mini_controller_gradient_light.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_closed_caption_white_36.png.flat",
@@ -788,12 +788,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
@@ -808,12 +808,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/cbdff4e0aa43720807fdce1f231da790/play-services-cast-9.4.0/res/drawable-mdpi-v4/cast_ic_notification_on.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_media_route_off_mono_dark.png.flat",
@@ -968,32 +968,32 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xhdpi-v4/quantum_ic_refresh_white_24.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_keyboard_arrow_down_white_36.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-mdpi-v4/quantum_ic_keyboard_arrow_down_white_36.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_powered_by_google_dark.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/b3bcae8028c17bf4040a848a1ec419d3/play-services-places-9.4.0/res/drawable-xxxhdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_skip_next_white_36.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-xxxhdpi-v4/quantum_ic_skip_next_white_36.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_media_route_on_1_mono_dark.png.flat",
@@ -1020,20 +1020,20 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable-hdpi-v4/quantum_ic_skip_previous_grey600_36.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_text_light_pressed.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_common_plus_signin_btn_text_dark.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/color/common_plus_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1060,12 +1060,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_text_light_pressed.9.png.flat",
@@ -1136,16 +1136,16 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_forward30.xml.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable/cast_ic_notification_forward30.xml"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_forward30.xml.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/res/drawable/cast_ic_notification_forward30.xml"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_focused.9.png.flat",
@@ -1204,12 +1204,12 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
-        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_media_route_on_0_mono_dark.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/68ee41e6b89714cae62daae5a4e2d2c5/mediarouter-v7-23.0.0/res/drawable-xhdpi/ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/1dd9ecaf65a910c4008dcd400184f0b5/play-services-base-9.4.0/res/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_replay_white_24.png.flat",

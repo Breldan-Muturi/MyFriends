@@ -1245,6 +1245,7 @@ id uniform
 id up
 id url
 id useLogo
+id userListView
 id usernameEditText
 id wide
 id withText

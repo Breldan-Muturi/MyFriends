@@ -1244,11 +1244,12 @@ int id uniform 0x7f080104
 int id up 0x7f080105
 int id url 0x7f080106
 int id useLogo 0x7f080107
-int id usernameEditText 0x7f080108
-int id wide 0x7f080109
-int id withText 0x7f08010a
-int id wrap 0x7f08010b
-int id wrap_content 0x7f08010c
+int id userListView 0x7f080108
+int id usernameEditText 0x7f080109
+int id wide 0x7f08010a
+int id withText 0x7f08010b
+int id wrap 0x7f08010c
+int id wrap_content 0x7f08010d
 int integer abc_config_activityDefaultDur 0x7f090000
 int integer abc_config_activityShortDur 0x7f090001
 int integer cancel_button_image_alpha 0x7f090002
