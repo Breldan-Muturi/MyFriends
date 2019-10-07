@@ -964,6 +964,7 @@ id async
 id audio_empty_message
 id audio_list_view
 id auto
+id backgroundLayout
 id background_image_view
 id background_place_holder_image_view
 id beginning
@@ -1044,7 +1045,6 @@ id icon_uri
 id icon_view
 id ifRoom
 id image
-id imageView
 id index_entity_types
 id info
 id instant_message
@@ -1062,6 +1062,7 @@ id listMode
 id list_item
 id loading_indicator
 id loginTextView
+id logoImageView
 id logo_only
 id main_container
 id match_global_nicknames
@@ -1100,7 +1101,6 @@ id progressBar
 id progress_circular
 id progress_horizontal
 id radio
-id relativeLayout
 id rfc822
 id right_icon
 id right_side

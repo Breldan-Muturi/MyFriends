@@ -8,13 +8,13 @@
   -->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/relativeLayout"
+    android:id="@+id/backgroundLayout"
     android:layout_width="410dp"
     android:layout_height="655dp"
     android:background="@color/cast_libraries_material_featurehighlight_outer_highlight_default_color">
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/logoImageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
