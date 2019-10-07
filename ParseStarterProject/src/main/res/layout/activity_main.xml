@@ -38,6 +38,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="275dp"
         android:ems="10"
+        android:inputType="textPassword"
         android:hint="Password" />
 
     <Button
@@ -48,4 +49,16 @@
         android:layout_marginTop="350dp"
         android:onClick="signUpClicked"
         android:text="Sign Up" />
+
+    <TextView
+        android:id="@+id/loginTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="355dp"
+        android:layout_toEndOf="@+id/signUpButton"
+        android:text="or, Log In"
+        android:textColor="#673AB7"
+        android:textSize="24sp" />
+
 </RelativeLayout>
