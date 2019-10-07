@@ -976,6 +976,10 @@
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/0654d202bf5052238b9a260f56d1ff8b/appcompat-v7-26.0.0/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    },
+    {
         "merged": "/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_powered_by_google_dark.png.flat",
         "source": "/home/turi/.gradle/caches/transforms-2/files-2.1/b3bcae8028c17bf4040a848a1ec419d3/play-services-places-9.4.0/res/drawable-xxxhdpi-v4/powered_by_google_dark.png"
     },

@@ -13,9 +13,12 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 import com.google.android.gms.drive.internal.GetMetadataRequest;
 import com.parse.FindCallback;
@@ -24,6 +27,7 @@ import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
+import com.parse.SaveCallback;
 
 import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
@@ -59,6 +63,27 @@ public class UserListActivity extends AppCompatActivity {
                 ParseFile file = new ParseFile("image.png", byteArray);
 
                 ParseObject object = new ParseObject("Image");
+
+                object.put("image", file);
+
+                object.put("username", ParseUser.getCurrentUser().getUsername());
+
+                object.saveInBackground(new SaveCallback() {
+                    @Override
+                    public void done(ParseException e) {
+                        if(e == null){
+
+                            Toast.makeText(UserListActivity.this, "Image shared Successfully!", Toast.LENGTH_SHORT).show();
+
+                        } else {
+
+                            Toast.makeText(UserListActivity.this, "Something went wrong", Toast.LENGTH_SHORT).show();
+
+                            e.printStackTrace();
+
+                        }
+                    }
+                });
 
                 Log.i("Image Selected", "Good Work");
 
@@ -111,6 +136,11 @@ public class UserListActivity extends AppCompatActivity {
 
             }
 
+        } else if (item.getItemId() == R.id.logout){
+
+            ParseUser.logOut();
+
+            Intent
         }
 
 
@@ -126,9 +156,21 @@ public class UserListActivity extends AppCompatActivity {
 
         final ArrayList<String> usernames = new ArrayList<String>();
 
-//        usernames.add("test");
-
         final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, usernames);
+
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+            @Override
+
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+
+                Intent intent = new Intent(getApplicationContext(), UserFeedActivity.class);
+
+                intent.putExtra("username", usernames.get(i));
+
+                startActivity(intent);
+            }
+        });
 
         listView.setAdapter(arrayAdapter);
 

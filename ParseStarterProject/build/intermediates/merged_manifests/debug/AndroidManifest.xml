@@ -36,6 +36,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.parse.starter.UserFeedActivity" />
         <activity android:name="com.parse.starter.UserListActivity" />
         <activity
             android:name="com.parse.starter.MainActivity"

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/cbdff4e0aa43720807fdce1f231da790/play-services-cast-9.4.0/AndroidManifest.xml:16:1-20:12
@@ -66,20 +66,20 @@ MERGED from [com.android.support:support-fragment:26.0.0] /home/turi/.gradle/cac
 MERGED from [com.android.support:support-core-utils:26.0.0] /home/turi/.gradle/caches/transforms-2/files-2.1/41624a9d24fbf3c19564ab420c3d12f9/support-core-utils-26.0.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.0.0] /home/turi/.gradle/caches/transforms-2/files-2.1/a1d8bd84cf0dd6bd22dd9c6c3ce599ce/support-core-ui-26.0.0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.0] /home/turi/.gradle/caches/transforms-2/files-2.1/19b763e94c943015b826ef759aa873b2/support-compat-26.0.0/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-30:12
 		INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
@@ -142,7 +142,7 @@ ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/s
 	android:name
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
 application
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-27:19
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-28:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/19b801fb8029453184be5fce51ee07c2/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/turi/.gradle/caches/transforms-2/files-2.1/62d04d65571db4a21c37e69bab78b2b2/play-services-cast-framework-9.4.0/AndroidManifest.xml:5:5-9:19
@@ -254,31 +254,35 @@ MERGED from [com.android.support:support-compat:26.0.0] /home/turi/.gradle/cache
 	android:allowBackup
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
 	android:usesCleartextTraffic
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-44
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
-activity#com.parse.starter.UserListActivity
+activity#com.parse.starter.UserFeedActivity
 ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-63
 	android:name
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-51
+activity#com.parse.starter.UserListActivity
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:19-51
 activity#com.parse.starter.MainActivity
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-26:20
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-45
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-41
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
