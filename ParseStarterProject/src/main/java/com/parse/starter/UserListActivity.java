@@ -20,9 +20,12 @@ import android.widget.ListView;
 import com.google.android.gms.drive.internal.GetMetadataRequest;
 import com.parse.FindCallback;
 import com.parse.ParseException;
+import com.parse.ParseFile;
+import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 
+import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,6 +49,16 @@ public class UserListActivity extends AppCompatActivity {
             try {
 
                 Bitmap bitmap = MediaStore.Images.Media.getBitmap(this.getContentResolver(), selectedImage);
+
+                ByteArrayOutputStream stream = new ByteArrayOutputStream();
+
+                bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream);
+
+                byte[] byteArray = stream.toByteArray();
+
+                ParseFile file = new ParseFile("image.png", byteArray);
+
+                ParseObject object = new ParseObject("Image");
 
                 Log.i("Image Selected", "Good Work");
 

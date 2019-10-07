@@ -61,8 +61,8 @@
 35        android:label="@string/app_name"
 35-->/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
 36        android:testOnly="true"
-37        android:theme="@style/Theme.AppCompat.NoActionBar"
-37-->/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-59
+37        android:theme="@style/AppTheme"
+37-->/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-40
 38        android:usesCleartextTraffic="true" >
 38-->/home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-44
 39        <activity android:name="com.parse.starter.UserListActivity" />

@@ -254,7 +254,7 @@ MERGED from [com.android.support:support-compat:26.0.0] /home/turi/.gradle/cache
 	android:allowBackup
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-59
+		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-40
 	android:usesCleartextTraffic
 		ADDED from /home/turi/Desktop/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-44
 	android:name
